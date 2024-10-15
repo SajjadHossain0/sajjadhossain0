@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hossain</h1>
 <h3 align="center">A passionate Java Spring Boot developer.</h3>
 
+<div align="right">
 [![](https://visitcount.itsvg.in/api?id=sajjadhossain0&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 
 # 💫 About Me:
 <br>- 🌱 **I'm currently working on** an e-commerce web application using Spring Boot.<br>- 🤝 **I'm looking to collaborate on** innovative Java Spring Boot projects, particularly in web applications and REST APIs.<br>- 💬 **I'm looking for help with** improving my skills and gaining opportunities to increase my experience.<br>- 📚 **I'm currently learning** DSA, advanced Spring Boot features, 3rd-party integrations, and exploring frontend development tools.<br>- 💡 **Ask me about** building RESTful APIs, Spring Boot-based web applications, or anything Java-related!<br>- 🎉 **Fun fact:** I love crafting in my free time and experimenting with different things!<br>
