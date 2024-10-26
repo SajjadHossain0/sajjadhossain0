@@ -81,7 +81,6 @@ Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajjadhossain0&theme=dracula" height="200" alt="GitHub profile summary" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadhossain0&show_icons=true&theme=dracula&hide_border=false" height="200" alt="GitHub stats" />
 </div>
 
 ###
