@@ -15,7 +15,7 @@
 You can view my personal portfolio website <a href="https://sajjadhossain.onrender.com" target="_blank">here</a>
 
 # 🤝 Let's Collaborate
-Looking to build a powerful backend for your application?  
+Looking to build a powerful web-application?  
 Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
 
 ###
