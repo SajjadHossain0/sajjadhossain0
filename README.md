@@ -8,14 +8,16 @@
 </p>
 
 # 💫 About Me:
-<br>🌱 **I'm currently working on** an e-commerce web application using Spring Boot.<br>🤝 **I'm looking to collaborate on** innovative Java Spring Boot projects, particularly in web applications and REST APIs.<br>💬 **I'm looking for help with** improving my skills and gaining opportunities to increase my experience.<br>📚 **I'm currently learning** DSA, advanced Spring Boot features, 3rd-party integrations, and exploring frontend development tools.<br>💡 **Ask me about** building RESTful APIs, Spring Boot-based web applications, or anything Java-related!<br>🎉 **Fun fact:** I love crafting in my free time and experimenting with different things!<br>
+<br>🌱 **I'm currently working on** Full stack projects using **SpringBoot + MySQL + React**.<br>
+🤝 **I'm looking to collaborate on** innovative Java SpringBoot and React based projects, particularly in websites, web applications and REST API's.<br>
+💬 **I'm looking for help with** improving my skills and gaining opportunities to increase my experience.<br>
 
 ## 🌐 Portfolio:
 
 You can view my personal portfolio website <a href="https://sajjadhossain.onrender.com" target="_blank">here</a>
 
 # 🤝 Let's Collaborate
-Looking to build a powerful web-application?  
+Looking to build a powerful websites or web-applications?  
 Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
 
 ###
