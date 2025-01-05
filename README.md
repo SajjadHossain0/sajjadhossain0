@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFKA_eePfrkng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718297738344?e=1741824000&v=beta&t=3Rkjvd7JJeScqNf22SaYGsbTY4ZhMSBjG32FzRR1K-g" alt="sajjad" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hossain</h1>
 <h3 align="center">A passionate Java Developer.</h3>
 
