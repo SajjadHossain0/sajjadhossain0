@@ -65,6 +65,9 @@ Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
   <a href="https://www.facebook.com/sajjad.hossain.8082" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://www.youtube.com/@0sajjadhossain0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
