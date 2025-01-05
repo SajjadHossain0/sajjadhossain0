@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hossain</h1>
 <h3 align="center">A passionate Java Developer.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajjadhossain0&color=blueviolet&style=flat-square" alt="Profile Views">
-</p>
-
 # 💫 About Me:
 <br>🌱 **I'm currently working on** Full stack projects using **SpringBoot + MySQL + React**.<br>
 🤝 **I'm looking to collaborate on** innovative Java SpringBoot and React based projects, particularly in websites, web applications and REST API's.<br>
