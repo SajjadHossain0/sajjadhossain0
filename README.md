@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Java Developer.</h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sajjadhossain0&icon=0&color=0" alt="Profile views counter" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=sajjadhossain0)
 </p>
 
 # 💫 About Me:
