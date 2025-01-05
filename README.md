@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Developer.</h3>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=sajjadhossain0)
+  <img src="https://komarev.com/ghpvc/?username=sajjadhossain0&color=blueviolet&style=flat-square" alt="Profile Views">
 </p>
 
 # 💫 About Me:
