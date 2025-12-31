@@ -7,10 +7,11 @@
 
 # 💫 About Me:
 <br>
-🌱 **Currently building** scalable full-stack applications using **Spring Boot, MySQL, and Vue** <br> 
-🛠 **Experienced in** designing REST APIs, authentication (JWT), database modeling, and Dockerized deployments  <br>
-🤝 **Open to collaborating** on real-world software products, SaaS platforms, and backend-heavy systems  <br>
-🚀 **Focused on** clean architecture, maintainable code, and performance-oriented solutions<br>
+🌱 <b>Currently building</b> scalable full-stack applications using <b>Spring Boot, MySQL, and Vue</b>
+<br> 
+🛠 <b>Experienced in</b> designing REST APIs, authentication (JWT), database modeling, and Dockerized deployments  <br>
+🤝 <b>Open to collaborating</b> on real-world software products, SaaS platforms, and backend-heavy systems  <br>
+🚀 <b>Focused on</b> clean architecture, maintainable code, and performance-oriented solutions<br>
 
 ## 🌐 Portfolio
 Explore my projects, case studies, and technical work:  
@@ -30,8 +31,6 @@ Interested in building **production-ready software**, backend systems, or full-s
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
