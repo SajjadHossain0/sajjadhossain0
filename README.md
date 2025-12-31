@@ -3,20 +3,24 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hossain</h1>
-<h3 align="center">A passionate Java Developer.</h3>
+<h3 align="center">Software Engineer | Building Scalable Web Applications</h3>
 
 # 💫 About Me:
-<br>🌱 **I'm currently working on** Full stack projects using **SpringBoot + MySQL + React**.<br>
-🤝 **I'm looking to collaborate on** innovative Java SpringBoot and React based projects, particularly in websites, web applications and REST API's.<br>
-💬 **I'm looking for help with** improving my skills and gaining opportunities to increase my experience.<br>
+<br>
+🌱 **Currently building** scalable full-stack applications using **Spring Boot, MySQL, and Vue** <br> 
+🛠 **Experienced in** designing REST APIs, authentication (JWT), database modeling, and Dockerized deployments  <br>
+🤝 **Open to collaborating** on real-world software products, SaaS platforms, and backend-heavy systems  <br>
+🚀 **Focused on** clean architecture, maintainable code, and performance-oriented solutions<br>
 
-## 🌐 Portfolio:
-
-You can view my personal portfolio website <a href="https://sajjadhossain.onrender.com" target="_blank">here</a>
+## 🌐 Portfolio
+Explore my projects, case studies, and technical work:  
+👉 https://sajjadhossain.onrender.com
 
 # 🤝 Let's Collaborate
-Looking to build a powerful websites or web-applications?  
-Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
+
+Interested in building **production-ready software**, backend systems, or full-stack web applications?  
+📩 Reach me at: **sajjad.tech.eng@gmail.com**
+
 
 ###
 
@@ -26,6 +30,8 @@ Feel free to **contact me** at : <span>sajjad.tech.eng@gmail.com</span>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
