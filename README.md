@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Sajjad Hossain</h1>
-<h3 align="center">Software Engineer | Building Scalable Web Applications</h3>
+<h3 align="center">Software Engineer | Building Scalable Applications</h3>
 
 # 💫 About Me:
 <br>
